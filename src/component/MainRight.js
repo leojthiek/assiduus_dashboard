@@ -50,7 +50,7 @@ export default function MainRight() {
 
   return (
     <>
-      <Box sx={{ paddingTop: "60px", paddingBottom: "60px" }}>
+      <Box sx={{ paddingTop: "40px", paddingBottom: "60px" }}>
         <Grid
           container
           sx={{ display: "flex", justifyContent: "space-evenly", rowGap: 4 }}

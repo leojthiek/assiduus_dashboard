@@ -28,7 +28,7 @@ export default function MainLeft({ selectedItem, setSelectedItem,menuItems }) {
   };
 
   return (
-    <Box sx={{ paddingTop: '60px' }}>
+    <Box sx={{ paddingTop: '40px' }}>
       {menuItems.map((item, index) => (
         <Box
           key={index}

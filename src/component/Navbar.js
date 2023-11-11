@@ -104,7 +104,7 @@ export default function Navbar() {
   return (
     <>
       <AppBar
-        sx={{ bgcolor: "white", paddingBottom: "10px", paddingTop: "10px" }}
+        sx={{ bgcolor: "white" }}
         position='sticky'
       >
         <Container maxWidth={"xxl"}>

@@ -22,8 +22,8 @@ const MenuItem = styled(Grid)(({ theme }) => ({
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    paddingTop: "20px",
-    paddingBottom: "20px",
+    paddingTop: "10px",
+    paddingBottom: "10px",
   },
 }))
 
